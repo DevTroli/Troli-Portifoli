@@ -6,7 +6,7 @@ O portfólio de programador é um elemento muito importante pra quem busca entra
 
 ## Resultado Final
 
-![Vídeo do Projeto finalizado](./Imagens/GIF%20Portifolio.gif)
+![Vídeo do Projeto finalizado](https://github.com/DevTroli/Troli-Portifoli/blob/main/src/Imagens/GIF%20Portifolio.gif?raw=true)
 
 ## Sobre o projeto
 Olá, caro leitor! É um prazer ter você por aqui!<Br>
